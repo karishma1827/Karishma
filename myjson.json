@@ -1,0 +1,29 @@
+{
+   "emp_details": [
+      {
+         "emp_name": "Sakthi",
+         "emp_add": "Thoothukudi",
+         "emp_age": "29"
+      },
+      {
+         "emp_name": "Apisha",
+         "emp_add": "Chennai",
+         "emp_age": "18"
+      },
+      {
+         "emp_name": "Karishma",
+         "emp_add": "Coimbatore",
+         "emp_age": "17"
+      },
+      {
+         "emp_name": "Abar",
+         "emp_add": "Chennai",
+         "emp_age": "19"
+      },
+      {
+         "emp_name": "Abar",
+         "emp_add": "Chennai",
+         "emp_age": "19"
+      }
+   ]
+}
